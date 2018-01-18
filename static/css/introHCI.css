@@ -9,11 +9,26 @@
 	color: #CC00AA;
 }
 
+h4{
+  font-size: 30px; 
+}
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
      border: 1px dotted gray;
      padding: 20px;
+}
+
+/*
+.project {
+    margin-left: 2px;
+    padding: 50px;
+    width: 525px;
+}
+*/
+
+.project p {
+    font-variant: small-caps;
 }
 
 .jumbotron {
